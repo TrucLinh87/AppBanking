@@ -22,4 +22,4 @@ public class StringResourceHelper {
     }
     // END OF GET USER DETAIL PREF NAME METHOD.
 }
-// END OF STRING RESOURCE HELPER CLASS.
+
