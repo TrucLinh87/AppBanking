@@ -20,6 +20,5 @@ public class StringResourceHelper {
     public static String getUserDetailPrefName() {
         return USER_DETAIL_PREF;
     }
-    // END OF GET USER DETAIL PREF NAME METHOD.
 }
 
